@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="iot-agent">
+    <output-path>$PROJECT_DIR$/out/artifacts/iot_agent</output-path>
+    <root id="root">
+      <element id="archive" name="rfid-reader-agent.jar">
+        <element id="module-output" name="IoT Agent" />
+      </element>
+      <element id="library" level="application" name="log4j-1.2-api-2.5" />
+      <element id="library" level="application" name="dom4j-1.6.1" />
+      <element id="library" level="application" name="jackson-annotations-2.7.3" />
+    </root>
+  </artifact>
+</component>

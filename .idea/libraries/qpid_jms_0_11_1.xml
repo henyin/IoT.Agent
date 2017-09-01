@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="qpid-jms-0.11.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Java/library/apache-qpid-jms-0.11.1/lib/geronimo-jms_1.1_spec-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java/library/apache-qpid-jms-0.11.1/lib/netty-buffer-4.0.41.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java/library/apache-qpid-jms-0.11.1/lib/netty-codec-4.0.41.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java/library/apache-qpid-jms-0.11.1/lib/netty-codec-http-4.0.41.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java/library/apache-qpid-jms-0.11.1/lib/netty-common-4.0.41.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java/library/apache-qpid-jms-0.11.1/lib/netty-handler-4.0.41.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java/library/apache-qpid-jms-0.11.1/lib/netty-transport-4.0.41.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java/library/apache-qpid-jms-0.11.1/lib/proton-j-0.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java/library/apache-qpid-jms-0.11.1/lib/qpid-jms-client-0.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java/library/apache-qpid-jms-0.11.1/lib/qpid-jms-discovery-0.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
